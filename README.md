@@ -5,3 +5,4 @@ Git Pong
 
 ## This new version comes with family.rb - a list of family members
 
+Giving some Git-pong love to Stefan! Amazing to have active collaborators. :)
